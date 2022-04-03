@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://18.168.198.152:8888/repository/asdajob/</url>
+	      <url>http://18.168.198.152:8888/repository/asda_Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url> http://18.168.198.152:8888/repository/asdajob_snapshot/</url>
+	      <url>http://18.168.198.152:8888/repository/asda_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
